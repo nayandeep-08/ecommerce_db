@@ -18,8 +18,20 @@ This project is a simple ecommerce database built using PostgreSQL.
 - PostgreSQL
 - SQL
 
+
 ## 📸 Screenshots
-(Add images here)
+
+### Users Table
+![Users](screenshots/users_table.png)
+
+### Products Table
+![Products](screenshots/products.png)
+
+### Revenue Output
+![Revenue](screenshots/revenue.png)
+
+### customers Output
+![Customers](screenshots/customers.png)
 
 ## 👨‍💻 Author
 Nayan
